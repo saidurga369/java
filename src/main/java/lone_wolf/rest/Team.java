@@ -1,0 +1,5 @@
+package lone_wolf.rest;
+
+public enum Team {
+	SAI_DURGA,SAI_TEJA,SAI_SUSHMITHA,LAVANYA,VANDANA,ANKITHA,RWTVIK,RAM
+}
